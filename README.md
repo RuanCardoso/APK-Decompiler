@@ -1,3 +1,3 @@
 # APK-Decompiler
 Decompiler, Modifier, Recompiler and Sign your APK.
-![alt text](https://ibb.co/8Mq7g18.png)
+![alt text](https://i.ibb.co/VVRqYfB/desc-apk.png)
