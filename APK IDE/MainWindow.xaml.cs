@@ -45,7 +45,7 @@ namespace APK_IDE
         private int w_index; // Operation to start in p_Work;
         private readonly string ToolsDir; // Directory contains tools neccesary of this program;
         private string s_Output; // Output of operations;
-        private string ManualAPKName = "APK1.apk";
+        private string ManualAPKName = "APK3.apk";
 
         private string RecentFileName;
         private string RecentDirName;
