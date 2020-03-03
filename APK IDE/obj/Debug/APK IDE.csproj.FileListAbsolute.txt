@@ -1,0 +1,51 @@
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\APK IDE.exe.config
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\APK IDE.exe
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\APK IDE.pdb
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.csprojAssemblyReference.cache
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\MainWindow.g.cs
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\App.g.cs
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE_MarkupCompile.cache
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE_MarkupCompile.lref
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\MainWindow.baml
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.g.resources
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK_IDE.Properties.Resources.resources
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.csproj.GenerateResource.cache
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.csproj.CoreCompileInputs.cache
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.exe
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.pdb
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\Hex_Form.g.cs
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\Hex_Form.baml
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\WPFHexaEditor.dll
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\fr-CA\WPFHexaEditor.resources.dll
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\pl-PL\WPFHexaEditor.resources.dll
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\pt-BR\WPFHexaEditor.resources.dll
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\ru-RU\WPFHexaEditor.resources.dll
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\bin\Debug\zh-CN\WPFHexaEditor.resources.dll
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\APK IDE.csproj.CopyComplete
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\CustomPopup.g.cs
+C:\Users\Ruan Cardoso\Documents\APK IDE\APK IDE\obj\Debug\CustomPopup.baml
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\APK IDE.exe.config
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\APK IDE.exe
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\APK IDE.pdb
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\WPFHexaEditor.dll
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\fr-CA\WPFHexaEditor.resources.dll
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\pl-PL\WPFHexaEditor.resources.dll
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\pt-BR\WPFHexaEditor.resources.dll
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\ru-RU\WPFHexaEditor.resources.dll
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\bin\Debug\zh-CN\WPFHexaEditor.resources.dll
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE.csprojAssemblyReference.cache
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\CustomPopup.g.cs
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\Hex_Form.g.cs
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\MainWindow.g.cs
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\App.g.cs
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE_MarkupCompile.cache
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE_MarkupCompile.lref
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\CustomPopup.baml
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\Hex_Form.baml
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\MainWindow.baml
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE.g.resources
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK_IDE.Properties.Resources.resources
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE.csproj.GenerateResource.cache
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE.csproj.CopyComplete
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE.exe
+C:\Users\Ruan\Desktop\Projects\APK IDE\APK IDE\APK IDE\obj\Debug\APK IDE.pdb

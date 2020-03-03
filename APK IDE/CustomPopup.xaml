@@ -1,0 +1,14 @@
+﻿<Window x:Class="APK_IDE.CustomPopup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APK_IDE"
+        mc:Ignorable="d"
+        Title="Go Expression" Height="72" Width="240" WindowStartupLocation="CenterScreen">
+	<Grid>
+		<Label Content="Offset:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+		<TextBox x:Name="Offset_In" HorizontalAlignment="Left" Height="23" Margin="59,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="161" KeyDown="Offset_Input" TextChanged="Offset_In_TextChanged"/>
+
+	</Grid>
+</Window>
