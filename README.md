@@ -19,8 +19,8 @@ Outras ferramentas atualizadas usado no Software como:
 - AAPT
 - JarSigner/ApkSigner
 ...................................
-Estes citados acima podem ser encotrados na pasta do Java/Android Studio.
+Estes citados acima podem ser encotrados na pasta do Java/Android Studio. <br />
 
 Thanks:
-Parfare
-ibotpeaches
+Parfare <br />
+ibotpeaches <br />
