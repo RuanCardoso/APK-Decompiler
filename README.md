@@ -14,7 +14,7 @@ APK Desc
 - IL2CPP Dumper -> https://github.com/Perfare/Il2CppDumper
 - APKTool -> https://ibotpeaches.github.io/Apktool/install/
 
-Outras ferramentas atualizadas usado no Software como:
+Ferramentas necessárias(Já incluído.....mas pode ser necessário atualizar):
 - ZipAlign
 - AAPT
 - JarSigner/ApkSigner
