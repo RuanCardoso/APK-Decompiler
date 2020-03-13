@@ -11,8 +11,8 @@ APK Desc
 - APKTool
 
 ![alt text](https://i.ibb.co/VVRqYfB/desc-apk.png)
-IL2CPP Dumper -> https://github.com/Perfare/Il2CppDumper
-APKTool -> https://ibotpeaches.github.io/Apktool/install/
+- IL2CPP Dumper -> https://github.com/Perfare/Il2CppDumper
+- APKTool -> https://ibotpeaches.github.io/Apktool/install/
 
 Outras ferramentas atualizadas usado no Software como:
 - ZipAlign
