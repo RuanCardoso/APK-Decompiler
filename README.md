@@ -18,10 +18,10 @@ Outras ferramentas atualizadas usado no Software como:
 - ZipAlign
 - AAPT
 - JarSigner/ApkSigner
-...................................\
+---------------------------------------------------------------------------
 Estes citados acima podem ser encotrados na pasta do Java/Android Studio
 
-Thanks:\
+Thanks:
 ----------------
 Parfare\
 ibotpeaches
