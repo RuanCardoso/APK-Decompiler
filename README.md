@@ -22,6 +22,5 @@ Outras ferramentas atualizadas usado no Software como:
 Estes citados acima podem ser encotrados na pasta do Java/Android Studio.
 
 Thanks:
-[
 .Parfare
-.ibotpeaches]
+.ibotpeaches
